@@ -1,11 +1,12 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main() {
     printf("Hello World!\n");
 
     getchar();
     return 0;
 }
-int sss(){
-    return 0;
-}
+// int sss() {
+//     int a;
+//     return 0;
+// }
